@@ -1,0 +1,8 @@
+{
+  "name": "Core Flood Simulator - Waterflooding & Buckley-Leverett",
+  "description": "Interactive multiphase Darcy flow and Buckley-Leverett displacement simulator with Corey relative permeability, Welge tangent construction, real-time core visualizer, and EOR evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PVU Core Flood Simulator</string>
+    <string name="title_activity_main">PVU Core Flood Simulator</string>
+    <string name="package_name">vn.edu.pvu.coreflood</string>
+    <string name="custom_url_scheme">vn.edu.pvu.coreflood</string>
+</resources>
